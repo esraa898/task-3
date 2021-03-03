@@ -1,0 +1,63 @@
+
+
+.body
+{
+      margin: 0;
+}
+.devolp
+{
+	display: inline-block;
+	width: 250px;
+	height: 300px;
+	margin-top: 150px;
+	margin-left:150px;
+	background-color: #F7F7F7;
+	
+}
+.UIUX
+{
+     display: inline-block;
+     width: 250px;
+	  height: 300px;
+	margin-left: 10px;
+	background-color: #F7F7F7;
+	padding-top: 5px;
+	
+}
+ .design
+ {
+ 	display: inline-block;
+ 	width: 250px;
+	height: 300px;
+	margin-left: 10px;
+	text-align: center;
+	background-color: #F7F7F7;
+ }
+ .SEO
+ {
+ 	display: inline-block;
+ 	width: 250px;
+	height: 300px;
+	margin-left: 10px;
+	background-color: #F7F7F7;
+ }
+ .img
+ {
+ 	padding: 40px 90px 20px 90px; 
+
+ 	text-align: center;
+ }
+  .head
+  {
+  	padding-left: 10px;
+  	text-align: center;
+    
+    color: #000;
+  }
+   .text
+   {
+   	padding-left: 10px;
+  	text-align: center;
+    color: #777;
+   }
+
